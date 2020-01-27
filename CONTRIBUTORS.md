@@ -27,3 +27,9 @@
     - Cancel async tasks when stopping the service.
     - Fix fd leak.
     - Print OpenSSL compile-time version and build flags.
+    - Optimize APIs and other clean-ups.
+- [xsm1997](https://github.com/xsm1997)
+    - Add `SO_REUSEPORT` support.
+    - Add TLS1.3 ciphersuites support.
+- [zhangsan946](https://github.com/zhangsan946)
+    - Add macOS keychain support.
